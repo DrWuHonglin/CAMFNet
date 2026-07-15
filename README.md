@@ -1,7 +1,8 @@
 # CAMFNet
 CAMFNet: A Cross-Modal Attention and Mamba Fusion Network for Multimodal Semantic Segmentation
 
-![Uploading image.png…]()
+<img width="1456" height="848" alt="image" src="https://github.com/user-attachments/assets/dff15637-d2ae-45aa-830f-08be43c04719" />
+
 
 
 The main contributions of this work are summarized as follows:
